@@ -4,8 +4,8 @@ Shared documents folder.
 
 Index:
 - RU:
-  - MIRA - arb.digital - images.pdf (Automated image description)
-  - MIRA - arb.digital - video.pdf (Automated video objects and places search and extraction)
+ - [Automated image description](../RU/MIRA-arb.digital-images.pdf) (MIRA-arb.digital-images.pdf) 
+ - [Automated video objects and places search and extraction](../RU/MIRA-arb.digital-video.pdf) (MIRA-arb.digital-video.pdf) 
 
 -
 
